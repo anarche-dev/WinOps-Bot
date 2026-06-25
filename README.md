@@ -1,6 +1,7 @@
 # WinOps-Bot (PC Monitor & Organizer) 🤖💻
 
 [![Demo Video](https://img.youtube.com/vi/SuOKCfy8ekA/0.jpg)](https://youtu.be/SuOKCfy8ekA)
+
 *(Click the image to watch the video demo on YouTube)*
 
 A fully automated, headless background utility for Windows monitoring, desktop optimization, and file organization. Built as a showcase of system integration and process automation capabilities.
